@@ -5,10 +5,10 @@ ComProg = 82.0
 
 print("--- Your Score ---")
 
-print("Foundation English : " + Eng)
+print("Foundation English : " + str(Eng))
 
-print("General Business : "+ GenBus)
+print("General Business : "+ str(GenBus))
 
-print("Introduction to Computer Systems : "+ IntroCom)
+print("Introduction to Computer Systems : "+ str(IntroCom))
 
-print("Computer Programming : " + ComProg)
+print("Computer Programming : " + str(ComProg))
